@@ -1,0 +1,13 @@
+{
+    "name": "johnnywoo/interview",
+    "type": "project",
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "8.5.19",
+        "phpunit/php-token-stream": "3.1.3"
+    }
+}
